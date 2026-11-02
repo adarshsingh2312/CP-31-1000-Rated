@@ -1,0 +1,7 @@
+# ignore everything except sources + docs
+*
+!*/
+!*.cpp
+!*.java
+!README.md
+!.gitignore
